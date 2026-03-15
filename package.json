@@ -1,0 +1,24 @@
+{
+  "name": "atividade-formulario",
+  "version": "1.0.0",
+  "description": "atv-formulario",
+  "homepage": "https://github.com/HenriqueFerreiraPires10/Atividade-Formulario#readme",
+  "bugs": {
+    "url": "https://github.com/HenriqueFerreiraPires10/Atividade-Formulario/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueFerreiraPires10/Atividade-Formulario.git"
+  },
+  "license": "ISC",
+  "author": "Henrique Ferreira Pires",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
